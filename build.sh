@@ -23,8 +23,8 @@ COMMON=(
   --config false
   --short
   --template "template/password-page.html"
-  --template-title "Paays · Internal Document"
-  --template-instructions "Paays internal document. Enter the access password to continue."
+  --template-title "Internal Document"
+  --template-instructions "Enter the access password to continue."
   --template-placeholder "Access password"
   --template-button "Unlock"
   --template-color-primary "#1d4ed8"
