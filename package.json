@@ -1,0 +1,12 @@
+{
+  "name": "internal-docs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Paays internal HTML documents, encrypted with StatiCrypt and published via GitHub Pages.",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "devDependencies": {
+    "staticrypt": "^3.5.4"
+  }
+}

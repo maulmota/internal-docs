@@ -1,0 +1,5 @@
+node_modules/
+passwords.env
+sources/
+.staticrypt.json
+.DS_Store
